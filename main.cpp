@@ -240,7 +240,7 @@ void Render()
         int yc = getPt(P2.y, P3.y, i);
 
         int xm = getPt(xa, xb, i);
-        int ym = getPt(ya, yb, i);=
+        int ym = getPt(ya, yb, i);
         int xn = getPt(xb, xc, i);
         int yn = getPt(yb, yc, i);
 

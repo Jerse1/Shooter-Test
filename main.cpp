@@ -26,11 +26,6 @@ bool mouseDown;
 short int windowWidth = 800;
 short int windowHeight = 600;
 
-SDL_Rect P0;
-SDL_Rect P1;
-SDL_Rect P2;
-SDL_Rect P3;
-
 class Vector2
 {
     int x, y;
